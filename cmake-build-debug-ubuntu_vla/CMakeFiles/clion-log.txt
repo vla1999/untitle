@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/vla1999/project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/vla1999/project/cmake-build-debug-ubuntu_vla
